@@ -20,28 +20,11 @@
 <picture> <img align="right" src="https://github.com/shyqulreyad/shyqulreyad/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- :office: I am a professional full stack developer at Automation services limited.
+- :office: I am a professional full stack developer at `Automation services limited`.
 - :eyes: I’m interested in programming...<br>
 - :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
 - :student: I’m currently using `Laravel`, `vue` and `MySQL` for web development<br>
 - :revolving_hearts: I’m looking to collaborate on Web development using `React`/`Angular`.... <br>
-
-
-<br>
-<br>
-<h2>👀 My CodeForces Stats</h2>
-
-![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/light_card.svg)
-
-
-![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/rating.svg)
-
-<!---
-shyqulreyad/shyqulreyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <br>
 <br>
@@ -69,3 +52,25 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <br>
+## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/l%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  </a>
+</p>
