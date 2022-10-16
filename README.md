@@ -19,3 +19,53 @@
 <h2><picture> <img src = "https://github.com/shyqulreyad/shyqulreyad/blob/main/images/me.gif?raw=true" width = 50px>  </picture> About me</h2>
 <picture> <img align="right" src="https://github.com/shyqulreyad/shyqulreyad/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
+
+- :office: I am a professional full stack developer at Automation services limited.
+- :eyes: I’m interested in programming...<br>
+- :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
+- :student: I’m currently using `Laravel`, `vue` and `MySQL` for web development<br>
+- :revolving_hearts: I’m looking to collaborate on Web development using `React`/`Angular`.... <br>
+
+
+<br>
+<br>
+<h2>👀 My CodeForces Stats</h2>
+
+![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/light_card.svg)
+
+
+![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/shyqulreyad/Codeforces-Stats/main/output/rating.svg)
+
+<!---
+shyqulreyad/shyqulreyad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<br>
+<br>
+
+<h2>👀 My github Stats</h2> 
+
+<div>
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyqulreyad" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=shyqulreyad&show_icons=true&include_all_commits=true)  &emsp; &emsp;
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shyqulreyad&theme=white-green)
+
+<br>
+<br>
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+[![shyqulreyad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=shyqulreyad&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+<br>
+
+
+<br>
+<br>
+<br>
