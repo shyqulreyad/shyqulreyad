@@ -20,11 +20,11 @@
 <picture> <img align="right" src="https://github.com/shyqulreyad/shyqulreyad/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- :office: I am a professional full stack developer at `Automation services limited`.
-- :eyes: I’m interested in programming...<br>
-- :computer: I am a competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
-- :student: I’m currently using `Laravel`, `vue` and `MySQL` for web development<br>
-- :revolving_hearts: I’m looking to collaborate on Web development using `React`/`Angular`.... <br>
+-  I am a professional full stack developer at `Automation services limited`.
+-  I’m interested in programming...<br>
+-  I am a competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
+-  I’m currently using `Laravel`, `vue` and `MySQL` for web development<br>
+-  I’m looking to collaborate on Web development using `React`/`Angular`.... <br>
 
 <br>
 <br>
@@ -59,6 +59,14 @@
 ### 👉 Programming languages
 
 <p align="left"> 
+ &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   </a>
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/l%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
@@ -67,12 +75,22 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
+ 
+</p>
+
+
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <a href="https://vuejs.org/" target="_blank"> 
+   <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  </a>   
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"/>
   </a>
 </p>
