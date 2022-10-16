@@ -21,10 +21,10 @@
 <br><br>
 
 -  I am a professional full stack developer at `Automation services limited`.
--  I’m interested in programming...<br>
--  I am a competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
--  I’m currently using `Laravel`, `vue` and `MySQL` for web development<br>
--  I’m looking to collaborate on Web development using `React`/`Angular`.... <br>
+-  interested in programming<br>
+-  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
+-  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
+-  Looking to collaborate on Web development using `React`/`Angular`.... <br>
 
 <br>
 <br>
@@ -161,7 +161,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  	<a href="#" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  	<a href="https://shyqulreyad.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:shyqulreyad@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/shyqulreyad" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/shyqulreyad/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
