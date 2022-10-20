@@ -24,7 +24,7 @@
 -  interested in programming<br>
 -  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
 -  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
--  Looking to collaborate on Web development using `React`/`Angular`.... <br>
+-  Looking to collaborate on Web development using `React`/`Angular`<br>
 
 <br>
 <br>
