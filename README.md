@@ -20,7 +20,7 @@
 <picture> <img align="right" src="https://github.com/shyqulreyad/shyqulreyad/blob/main/images/computer.gif?raw=true" width = 250px></picture>
 <br><br>
 
--  I am a professional full stack developer at `Automation services limited`.
+<!-- -  I am a professional full stack developer at `Automation services limited`. -->
 -  interested in programming<br>
 -  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
 -  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
