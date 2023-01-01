@@ -45,7 +45,7 @@
 <br>
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-[![shyqulreyad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=shyqulreyad&country_code=bangladesh&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
+[![shyqulreyad's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=shyqulreyad&country_code=bangladesh&show_private=true)](https://github.com/shyqulreyad/github-readme-ranking)
 <br>
 
 
