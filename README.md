@@ -40,11 +40,6 @@
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=shyqulreyad&show_icons=true&include_all_commits=true)  &emsp; &emsp;
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shyqulreyad&theme=white-green)
-
-<br>
-<br>
-
-
 <br>
 <br>
 <br>
