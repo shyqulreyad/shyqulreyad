@@ -22,7 +22,7 @@
 
 <!-- -  I am a professional full stack developer at `Automation services limited`. -->
 -  interested in programming<br>
--  A competitive programmer at `CodeForces`,  `HackerRank`, `hacker.io`.<br>
+-  A competitive programmer at `LeetCode`,  `HackerRank`, `CodeForces`.<br>
 -  Currently using `Laravel`, `vue` and `MySQL` for web development<br>
 -  Looking to collaborate on Web development using `React`/`Angular`<br>
 
@@ -37,13 +37,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyqulreyad" alt="GitHub Stats" /> <br/><br/>
   
 </div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=shyqulreyad&show_icons=true&include_all_commits=true)  &emsp; &emsp;
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shyqulreyad&theme=white-green)
-<br>
-<br>
-<br>
-
 
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
