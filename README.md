@@ -37,14 +37,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyqulreyad" alt="GitHub Stats" /> <br/><br/>
   </p>
 
+</div>
+<br/><br/>
+<div>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyqulreyad&show_icons=true&locale=en&layout=compact" alt="shyqulreyad" /></p>
 
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shyqulreyad&show_icons=true&locale=en" alt="shyqulreyad" /></p>
-
-  
 </div>
-
+<br/><br/>
 ## 🛠️ My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### 👉 Programming languages
