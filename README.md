@@ -152,13 +152,12 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  	<a href="https://shyqulreyad.com/" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:shyqulreyad@gmail.com" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/shyqulreyad" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/shyqulreyad/" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/shyqulreyad/" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/shyqul_reyad" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-  <a href="https://www.leetcode.com/shyqul_reyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shyqul_reyad" height="30" width="40" /></a>
+  	<a href="https://shyqulreyad.com/" target="blank" title="Website"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:shyqulreyad@gmail.com" target="blank" title="Gmail"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/shyqulreyad" target="blank" title="GitHub"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/shyqulreyad/" target="blank" title="LinkedIn"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/shyqulreyad/" target="blank" title="Facebook"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/shyqul_reyad" target="blank" title="Instagram"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 
 </p>
 
