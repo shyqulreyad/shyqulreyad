@@ -33,15 +33,12 @@
 
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyqulreyad" alt="GitHub Stats" /> <br/><br/>
   </p>
   <p align="left">
-  <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shyqulreyad&show_icons=true&locale=en&layout=compact" alt="shyqulreyad" /> <br/><br/>
   </p>
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <p align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=shyqulreyad&show_icons=true&locale=en" alt="shyqulreyad" /> <br/><br/>
   </p>
 
