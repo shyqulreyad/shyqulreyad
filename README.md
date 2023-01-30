@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shyqul islam Reyad</h1>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shyqulreyad&label=Profile%20views&color=32CD32&style=plastic" alt="shyqulreyad"/>
 <a href="https://github.com/shyqulreyad" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/shyqulreyad?label=Github%20followers&style=plastic&color=32CD32">
